@@ -34,3 +34,26 @@ followed by:
 npm start
 ```
 
+Note:  if you make a change in the production code, you must `build` & `start`.
+Otherwise, your changes will not be reflected.
+
+**Running The Tests**
+
+To run the tests, you can use
+
+```bash
+npm run test
+```
+
+To keep the tests running, you can use
+
+```bash
+npm run test -- --watch
+```
+
+To run a specific test, you can use
+
+```bash
+npm run test [my test name]
+```
+
