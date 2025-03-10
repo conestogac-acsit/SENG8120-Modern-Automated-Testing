@@ -4,9 +4,33 @@
 
 This repository houses the code we require for examples and assignments.
 
-## Usage
+## Repository Usage
 
 This repository will contain branches of code.
 
 Please refer to your instructor's directions on how to use this repository.
+
+## Branch Usage
+
+**Installing The Dependencies**
+
+You will need to install dependencies by using:
+
+```bash
+npm install
+```
+
+**Running The Project**
+
+To run the project, you must first build the project:
+
+```bash
+npm run build
+```
+
+followed by:
+
+```bash
+npm start
+```
 
