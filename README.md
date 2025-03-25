@@ -1,5 +1,7 @@
 # SENG8120 Modern Automated Testing 
 
+Version: Alpaca
+
 ## Purpose
 
 This repository houses the code we require for examples and assignments.
